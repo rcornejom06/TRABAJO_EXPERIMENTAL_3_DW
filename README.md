@@ -11,7 +11,6 @@ Fue desarrollada con **Node.js**, **Express** y **PostgreSQL**, como parte de la
 - PostgreSQL  
 - pg  
 - cors  
-- nodemon *(para desarrollo)*
 
 ---
 
