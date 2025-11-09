@@ -19,7 +19,7 @@ Fue desarrollada con **Node.js**, **Express** y **PostgreSQL**, como parte de la
 
 ### 1 Clonar el repositorio
 ```bash
-git clone https://github.com/<tu_usuario>/proyecto-api.git
+git clone https://github.com/rcornejom06/TRABAJO_EXPERIMENTAL_3_DW.git
 cd proyecto-api
 
 
